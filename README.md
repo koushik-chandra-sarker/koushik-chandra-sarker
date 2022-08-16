@@ -16,7 +16,7 @@ I’m currently learning MicroProfile.
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/koushik-chandra-sarker/) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker)
 
-[![Spring-Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/koushik-chandra-sarker)
+[![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/koushik-chandra-sarker)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/koushik-chandra-sarker)
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/)
