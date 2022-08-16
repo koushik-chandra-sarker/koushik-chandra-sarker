@@ -42,4 +42,4 @@ I’m currently learning MicroProfile.
 ### ☕ Get In Touch
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/koushikchandrasarker/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-chandra-sarker/)
-[![Personal Website](https://img.shields.io/badge/Portfilio-E95420?style=for-the-badge&logo=website&logoColor=white)](#)
+[![Personal Website](https://img.shields.io/badge/Portfilio-E95420?style=for-the-badge&logo=web&logoColor=white)](#)
