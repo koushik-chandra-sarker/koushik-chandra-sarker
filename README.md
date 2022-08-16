@@ -11,10 +11,7 @@ I’m currently learning MicroProfile.
 - :computer: Portfolio website: **[iamkoushik.com](https://iamkoushik.com/)**
 
 
-  <a href="https://www.facebook.com/koushikstack">
-    <img align="left" alt="Koushik Chandra Sarker's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/koushik-chandra-sarker/">
-    <img align="left" alt="Koushik Chandra Sarker's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />
-  </a>
-  
+
+### 👨‍💻 Languages and Tools
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/) 
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker)
