@@ -15,3 +15,10 @@ I’m currently learning MicroProfile.
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker)
+
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/)
+[![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/)
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/) 
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/) 
