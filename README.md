@@ -1,13 +1,17 @@
 ### Hi there, I'm [ Koushik Chandra Sarker!](https://www.iamkoushik.com)
-<a href="https://www.facebook.com/koushikstack">
-  <img align="left" alt="Koushik Chandra Sarker's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />
+- 🔭 I’m currently working on Java, Spring Boot and react js. Good at Java, Python, Javascript, MySql etc.
+- 🌱 I’m currently learning MicroProfile.
+
+👨‍🎓 B.Sc. in Computer Science and Engineering from the **[Southeast University](https://seu.edu.bd/)** 
+
+  <a href="https://www.facebook.com/koushikstack">
+    <img align="left" alt="Koushik Chandra Sarker's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />
   </a>
   <a href="https://www.linkedin.com/in/koushik-chandra-sarker/">
-  <img align="left" alt="Koushik Chandra Sarker's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />
+    <img align="left" alt="Koushik Chandra Sarker's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />
   </a>
   
-**koushik-stack/koushik-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
