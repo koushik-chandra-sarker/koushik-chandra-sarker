@@ -1,14 +1,12 @@
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/koushikchandrasarker/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-chandra-sarker/)
+[![Personal Website](https://img.shields.io/badge/Portfilio-E95420?style=for-the-badge&logo=web&logoColor=white)](#)
+
 ### Hi there, I'm [ Koushik Chandra Sarker!](https://www.iamkoushik.com)
 I’m currently working on Java, Spring Boot and react js. Good at Java, Python, Javascript, MySql etc. And currently learning MicroProfile.
 
 
 👨‍🎓 B.Sc. in Computer Science and Engineering from the **[Southeast University](https://seu.edu.bd/)** 
-
-
-### ☕ Get In Touch
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/koushikchandrasarker/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-chandra-sarker/)
-[![Personal Website](https://img.shields.io/badge/Portfilio-E95420?style=for-the-badge&logo=web&logoColor=white)](#)
 
 
 - :dart: Full stack web developer
