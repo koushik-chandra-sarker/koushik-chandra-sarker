@@ -28,3 +28,18 @@ I’m currently learning MicroProfile.
 
 [![MYSQL](https://img.shields.io/badge/mysql-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/koushik-chandra-sarker/) 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/koushik-chandra-sarker/) 
+
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)](#)
+
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)](#)
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+
+### ☕ Get In Touch
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/koushikchandrasarker/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://facebook.com/koushikchandrasarker/)
+[![Personal Website](https://img.shields.io/badge/Portfilio-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
