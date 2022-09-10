@@ -20,7 +20,6 @@ I’m currently working on Java, Spring Boot and react js. Good at Java, Python,
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/koushik-chandra-sarker/) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker)
-
 [![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/koushik-chandra-sarker)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/koushik-chandra-sarker)
 
