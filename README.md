@@ -22,10 +22,8 @@ I’m currently working on Java, Spring Boot and react js. Good at Java, Python,
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker)
 [![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/koushik-chandra-sarker)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/koushik-chandra-sarker)
-
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/)
 [![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/)
-
 [![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/koushik-chandra-sarker/)](https://github.com/koushik-chandra-sarker/) 
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/koushik-chandra-sarker/) 
 [![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/koushik-chandra-sarker/) 
@@ -35,9 +33,7 @@ I’m currently working on Java, Spring Boot and react js. Good at Java, Python,
 
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
-
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)](#)
-
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)](#)
 
